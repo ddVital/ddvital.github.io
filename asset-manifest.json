@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30eedc52.css",
+    "main.js": "/static/js/main.9e00df6f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/todo.png": "/static/media/todo.059d998c09a58a9c129e.png",
+    "static/media/api.png": "/static/media/api.3c6c0ac3612629f1ba5c.png",
+    "static/media/logo.svg": "/static/media/logo.f5e896876ba7a8f1b692435d4b6e447d.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.98bc6236a059ab74edd6d1418ecd1c3d.svg",
+    "static/media/arrow.svg": "/static/media/arrow.237fbfd366c23f5ea4308c9af7803d38.svg",
+    "index.html": "/index.html",
+    "static/media/hero.svg": "/static/media/hero.bbf3566fd298341d0b2eef15a524f7b4.svg",
+    "static/media/user.svg": "/static/media/user.7ffd1ffb883bea8c110afd4ab0c5a057.svg",
+    "static/media/paper-plane.svg": "/static/media/paper-plane.7551f341d92d7b42a9d71b6f88c05924.svg",
+    "static/media/msg.svg": "/static/media/msg.3a7abb7f37aaba3520384ab9ad88bd92.svg",
+    "main.30eedc52.css.map": "/static/css/main.30eedc52.css.map",
+    "main.9e00df6f.js.map": "/static/js/main.9e00df6f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30eedc52.css",
+    "static/js/main.9e00df6f.js"
+  ]
+}
